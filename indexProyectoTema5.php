@@ -135,7 +135,7 @@
                         </table> 
                 
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio00.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -144,7 +144,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio00.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -158,7 +158,7 @@
                         </div>
 
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio01.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -167,7 +167,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio01.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -181,7 +181,7 @@
                         </div>
                    
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio02.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -191,7 +191,7 @@ en el uso de una tabla “Usuario” de la base de datos. (PDO).</h3>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio02.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -205,7 +205,7 @@ en el uso de una tabla “Usuario” de la base de datos. (PDO).</h3>
                         </div>
                         
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio03.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -216,7 +216,7 @@ usuario basado en un formulario (Login.php) con un botón de “Entrar” y en e
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio03.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -230,7 +230,7 @@ usuario basado en un formulario (Login.php) con un botón de “Entrar” y en e
                         </div>
                      
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio04.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -239,7 +239,7 @@ usuario basado en un formulario (Login.php) con un botón de “Entrar” y en e
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio04.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -253,7 +253,7 @@ usuario basado en un formulario (Login.php) con un botón de “Entrar” y en e
                         </div>
                      
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio05.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -263,7 +263,7 @@ Mantenimiento de Departamentos.</h3>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio05.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -277,7 +277,7 @@ Mantenimiento de Departamentos.</h3>
                         </div>
                      
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio00">
+                            <a href="codigoPHP/ejercicio06.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
@@ -286,7 +286,7 @@ Mantenimiento de Departamentos.</h3>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio01PDO.php">
+                                    <a href="mostrarcodigo/muestraEjercicio06.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
