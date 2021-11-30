@@ -9,7 +9,11 @@ try {
                 CONSULTA;
     $miDB->exec($consulta);
 
-    echo 'Todo correcto';
+    $sql = <<<EOD
+DROP TABLE Departamento;
+EOD;
+
+    $miDB->exec($sql);
 } catch (PDOException $excepcion) {//Codigo que se ejecuta si hay algun error
     $errorExcepcion = $excepcion->getCode(); //Obtengo el codigo del error y lo almaceno en la variable errorException
     $mensajeException = $excepcion->getMessage(); //Obtengo el mensaje del error y lo almaceno en la variable mensajeException
@@ -20,3 +24,6 @@ try {
     unset($miDB);
 }
 ?>
+
+
+

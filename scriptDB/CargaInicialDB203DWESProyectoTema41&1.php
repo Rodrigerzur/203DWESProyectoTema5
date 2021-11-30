@@ -1,5 +1,5 @@
 <?php
-require_once '../config/configDBPDO.php';
+require_once '../config/confDBPDO.php';
 try {
     $miDB = new PDO(HOST, USER, PASSWORD);
     $miDB->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
