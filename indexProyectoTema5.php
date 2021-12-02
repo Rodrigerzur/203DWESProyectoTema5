@@ -205,18 +205,15 @@ en el uso de una tabla “Usuario” de la base de datos. (PDO).</h3>
                         </div>
                         
                         <div class="col-xl-4 col-md-6">
-                            <a href="codigoPHP/ejercicio03.php">
+                            <a href="../203DWESLogInLogOutTema5/codigoPHP/LogIn.php">
                                 <div class="service">
                                     <div class="mostrarejercicio" data-hover="MOSTRAR EL EJERCICIO">
                                         <div class="listing_image">
                                             <div class="listing_image_container">
-                                                <h3>Desarrollo de una aplicación (Proyecto LoginLogoff) con control de acceso e identificación del
-usuario basado en un formulario (Login.php) con un botón de “Entrar” y en el uso de una tabla
-“Usuario” de la base de datos (PDO).</h3>
+                                                <h3>PROYECTO </br>LOG IN</br> LOG OUT</h3>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="mostrarcodigo/muestraEjercicio03.php">
                                         <div class="mostrarcodigo" data-hover="MOSTRAR EL CODIGO">
                                             <div class="service_title_container d-flex flex-row align-items-center justify-content-start">
                                                 <div class="service_title">
@@ -224,7 +221,6 @@ usuario basado en un formulario (Login.php) con un botón de “Entrar” y en e
                                                 </div>
                                             </div>
                                         </div>
-                                    </a>
                                 </div>
                             </a>
                         </div>
