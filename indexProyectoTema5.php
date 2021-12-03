@@ -309,7 +309,7 @@ Mantenimiento de Departamentos.</h3>
                             <div class="col">
                                 <div class="footer_bar_content d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-start">
                                     <div class="copyright order-md-1 order-2">
-                                        2021-2022 Rodrigo Geras Zurrón &nbsp;&nbsp;&nbsp;     [Ultima Actualización] 3/12/2021 V1.1</div>
+                                        2021-2022 Rodrigo Geras Zurrón &nbsp;&nbsp;&nbsp;     [Ultima Actualización] 3/12/2021 &nbsp;&nbsp;&nbsp;  V1.1</div>
                                     <nav class="footer_nav order-md-2 order-1 ml-md-auto">
                                         <ul class="d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-start">
                                             <li><a href="../index.php">Inicio</a></li>				
