@@ -8,7 +8,8 @@ try {
 
     $sql = <<<EOD
 use dbs4868791;
-
+create user 'dbu2267458'@'%' IDENTIFIED BY 'daw2_Sauces';
+grant all privileges on dbs4868791.* to 'dbu2267458'@'%';
 CREATE TABLE IF NOT EXISTS T01_Usuario (
     T01_CodUsuario VARCHAR(8) PRIMARY KEY,
     T01_Password VARCHAR(255) NOT NULL,
